@@ -38,4 +38,4 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7sneha3/7sneha3/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/7sneha3/snk)_
+_generated with [7sneha3/snk](https://github.com/7sneha3/snk)_
