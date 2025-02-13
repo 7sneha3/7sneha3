@@ -7,7 +7,7 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-## Hi there 👋
+## Hi there, Sneha Sakhare here 👋
 
 <!--
 **7sneha3/7sneha3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Sneha Sakhare
 # 🎓 About Me:
 <br>👋 Hi, I'm Sneha Sakhare, a Computer Engineering student passionate about HTML, CSS, JS and problem-solving. <br>       I love building impactful projects, like a Ticket Troove and Smart Parking System.  <br><br>🚀 2⭐ CodeChef | Web Developer<br><br>💡 Skilled in C, C++, Java, Python, SQL, Django. Always learning, coding, and innovating!  <br><br>
 ## 🌐 Socials:
