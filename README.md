@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Sneha Sakhare
 # 💫 About Me:
-<br>👋 Hi, I'm Sneha Sakhare, a Computer Engineering student passionate about HTML, CSS, JS and problem-solving. <br>       I love building impactful projects, like a Smart Parking System and a Ticket Troove.  <br><br>🚀 2⭐ CodeChef | Web Developer<br><br>💡 Skilled in C, C++, Java, Python, SQL, Django. Always learning, coding, and innovating!  <br><br>
+<br>👋 Hi, I'm Sneha Sakhare, a Computer Engineering student passionate about HTML, CSS, JS and problem-solving. <br>       I love building impactful projects, like a Ticket Troove and Smart Parking System.  <br><br>🚀 2⭐ CodeChef | Web Developer<br><br>💡 Skilled in C, C++, Java, Python, SQL, Django. Always learning, coding, and innovating!  <br><br>
 ## 🌐 Socials:
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akashh.0081)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasakhare/) 
