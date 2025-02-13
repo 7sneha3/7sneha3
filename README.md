@@ -7,7 +7,7 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-## Hi there, Sneha Sakhare here 👋
+## Hi there, Sneha Sakhare here! 
 
 <!--
 **7sneha3/7sneha3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
