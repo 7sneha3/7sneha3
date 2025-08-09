@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 # 🎓 About Me:
-<br>👋 Hey there! I'm Sneha Sakhare, a Computer Engineering student with a knack for web development, problem-solving, and creative design.🚀<br>💡 I thrive on building impactful projects, like Ticket Troove and a Smart Parking System, blending innovation with functionality.<br><br>🏆 2⭐ CodeChef | Passionate Web Developer<br><br>💻 Tech Stack: C | C++ | Java | Python | SQL | Django <br>
+<br>👋 Hey there! I'm Sneha Sakhare, a Computer Engineering student. 🚀<br>💡 I thrive on building impactful projects, like Ticket Troove and a Smart Parking System, blending innovation with functionality.<br><br>🏆 Continuous Learner & Problem-Solver | Web Development with AI exposure | Design Enthusiast<br><br>💻 Tech Stack: C | C++ | Java | Python | SQL | Django <br>
 Let’s build something amazing together! ✨ <br><br>
 ## 🌐 Socials:
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akashh.0081)-->
